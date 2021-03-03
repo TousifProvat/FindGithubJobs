@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/FindGithubJobs/static/js/main.148a08f6.chunk.js",
-    "main.js.map": "/FindGithubJobs/static/js/main.148a08f6.chunk.js.map",
+    "main.js": "/FindGithubJobs/static/js/main.41dbd8e7.chunk.js",
+    "main.js.map": "/FindGithubJobs/static/js/main.41dbd8e7.chunk.js.map",
     "runtime-main.js": "/FindGithubJobs/static/js/runtime-main.3b48eb0d.js",
     "runtime-main.js.map": "/FindGithubJobs/static/js/runtime-main.3b48eb0d.js.map",
     "static/js/2.d1a316fd.chunk.js": "/FindGithubJobs/static/js/2.d1a316fd.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.3b48eb0d.js",
     "static/js/2.d1a316fd.chunk.js",
-    "static/js/main.148a08f6.chunk.js"
+    "static/js/main.41dbd8e7.chunk.js"
   ]
 }
